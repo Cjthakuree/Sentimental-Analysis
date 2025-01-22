@@ -38,12 +38,3 @@ The dataset used for this project consists of two main files:
 5. **Model Evaluation**:
    - Evaluate the model's performance on both training and validation datasets using accuracy scores.
    - Optionally, visualize a confusion matrix to analyze prediction errors.
-
-## Usage
-
-Clone the repository and run the provided Jupyter notebook (`sentiment_analysis_logistic_regression.ipynb`) to reproduce the sentiment analysis task. Make sure to have Python and the required libraries installed.
-
-```bash
-git clone https://github.com/pragati9998/Sentimental-Analysis.git
-cd Sentimental-Analysis
-jupyter notebook sentiment_analysis_logistic_regression.ipynb
